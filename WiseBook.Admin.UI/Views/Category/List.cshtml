@@ -1,0 +1,124 @@
+﻿
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_adminLayoutView.cshtml";
+}
+
+
+
+@model List<CategoryDTO>
+<div class="col-md-8">
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>IsActive</th>
+            <th colspan="2"> Ayrıntılar/Delete </th>
+        </tr>
+        </thead>
+        <tbody id="t-body">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.IsActive</td>
+                <td colspan="2">
+                    <div class="MoreButton"  >
+                        <a href="javascript:getCategory(@item.Id)" class="btn btn-warning form-control" >
+                    
+                        <i class="fa fa-bars"style="font-size:18px"></i> Ayrıntılar
+                        </a>
+                    </div>
+                    <a href="/category/delete/@item.Id" class="btn btn-danger form-control"><i class="fa fa-mail-forward" style="font-size:18px"></i> Delete</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>     
+
+
+<div class="col-md-4" >
+<div id="loading" style="display: none; position:fixed; width:100%;">
+    <img src="~/Content/img/loading.gif" />
+</div>
+<div class="row">
+    <form action="/category/update" method="post">
+        <div class="panel panel-info" id="MoreDiv" style="display: none; position: fixed;">
+            <div class="panel-heading">
+                Categories Details
+            </div>
+            <div class="panel-body">
+
+                <div class="form-group">
+                    <input type="hidden" name="Id" value="" id="form-id" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label for="inputsm">Name</label>
+                    <input class="form-control input-sm" name="Name" id="form-name" type="text" />
+                </div>
+                <div class="form-group">
+                    <label for="inputdefault">Descriptions</label>
+                    <textarea id="form-description" class="form-control" rows="5" style="resize: none;" name="Description"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="inputsm">Is Active? </label>
+                    <input id="form-IsActive" type="checkbox" data-toggle="toggle" data-on="On" data-off="Off"  />
+                </div>
+            </div>
+            <div class="panel-footer">
+                <div>
+          <input type="submit" value="Update" class="form-control btn btn-primary" />
+                </div>
+               
+            </div>
+        </div>
+    </form>
+  </div>
+</div>
+
+@section js{ 
+ <script>
+
+  function getCategory(id) {
+    $.ajax({
+            url: '/category/getcategory/' + id,
+        method: 'get',
+        beforeSend: function(xhr) {
+            $('#loading').css('display', '');
+            $("#MoreDiv").css('display', 'none');
+            },
+
+        success: function(response) {
+
+            $('#loading').css('display', 'none');
+            $("#MoreDiv").css('display', '');
+            $('#form-id').val(response.Id);
+            $('#form-name').val(response.Name);
+            $('#form-description').val(response.Description);
+                var state = response.IsActive;
+            $('#form-IsActive').val(state);
+                if (state)
+                {
+                $('#form-IsActive').prop('checked', true).change();
+
+                }
+                else
+                {
+                $('#form-IsActive').prop('checked', false).change();
+
+                }
+
+            }
+        });
+    }
+
+  $('.MoreButton').click(function() {
+    $("#MoreDiv").slideDown();
+
+    });
+
+</script>
+

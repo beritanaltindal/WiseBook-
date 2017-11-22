@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Deleted";
+    Layout = "~/Views/Shared/_adminLayoutView.cshtml";
+}
+
+@model List<CategoryDTO>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="#" data-target="#deleteModal_@item.Id" data-toggle="modal" class="btn btn-danger">
+                Permanent Delete: <span style="font-weight:bold;">@item.Name</span>
+            </a>
+            <a href="/category/revert/@item.Id" title="Recycle to active list."><span class="fa fa-recycle" style="color:lawngreen;"></span></a>
+
+
+            <div id="deleteModal_@item.Id" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Alert!</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Are you sure you want to delete "@item.Name"? This action cannot be reverted.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <a href="/category/superdelete/@item.Id" class="btn btn-danger">Yes</a>
+                            <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </li>
+    }
+</ul>
+

@@ -1,0 +1,82 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<UserDTO>
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_adminLayoutView.cshtml";
+}
+
+
+<div class="col-md-12">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>E-mail Adresi</th>
+                <th>Yetki Derecesi</th>
+                <th>Durum</th>
+                <th style="text-align:center">Düzenle/Sil</th>
+            </tr>
+        </thead>
+        <tbody id="t-body">
+            @foreach (var item in Model)
+            {
+                <tr style="width:50px;">
+                    <td>@item.Name</td>
+                    <td>@item.Lastname</td>
+                    <td>@item.Email</td>
+                    <td>@item.Role</td>
+                    <td>
+                     @if (item.IsActive)
+                     { <button class="btn btn-success form-control"> Aktif </button> }
+                    else{ <button class="btn btn-danger form-control">Pasif </button> }
+                     </td>
+                    <td style="text-align:center">
+                       <div class="UpdateButton" style="text-align:center">
+                          <a href="javascript:getCategory(@item.Id)" data-toggle="tooltip" title="Düzenle">
+                           <i class="fa fa-pencil-square-o" style="font-size:18px">
+                           </i> 
+                          </a>
+                       </div>
+                       <div class="DeleteButton" style="text-align:center">
+                          <a href="/category/delete/@item.Id" data-toggle="tooltip" title="Sil">
+                           <i class="fa fa-trash-o" style="font-size:18px">
+                           </i>
+                          </a>
+                       </div>
+                </tr>
+            }
+        </tbody>
+    
+    </table>
+</div>  
+
+<div class="col-md-12" style="text-align:center">
+    @Html.PagedListPager(Model, page => Url.Action("List", new { page, pageSize = Model.PageSize}), PagedListRenderOptions.Classic)
+</div> 
+<div class="col-md-12">Toplam <b>@Model.TotalItemCount</b>  kayıt bulundu. Bu sayfada <b>@Model.FirstItemOnPage</b> ile <b>@Model.LastItemOnPage</b> arası kayıtlar gösteriliyor.</div>
+
+@section js
+{
+    <script>
+        function getUser(id) {
+            $.ajax({
+                url: '/user/getuser/' + id,
+                method: 'get',
+                beforeSend: function (xhr) {
+                    $('#loading').css('display', '');
+                },
+
+                success: function (response) {
+                    $('#loading').css('display', 'none');
+                    $('#form-id').val(response.Id);
+                    $('#form-email').val(response.Email);
+                    $('#form-role').val(response.Role);
+                    $('#form-IsActive').val(state);
+
+                }
+            });
+        }
+
+    </script>
+}

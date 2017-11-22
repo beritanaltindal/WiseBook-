@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Views/Shared/_adminLayoutView.cshtml";
+}
+@model WiseBook.Admin.UI.Models.CategoryDTO
+@using (Html.BeginForm("Insert", "Category", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                   ADD CATEGORİES
+                </div>
+                <div class="panel-body">
+
+                    <div class="row">
+                        @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter name..." } })
+                        </div>
+                    </div>
+
+                    <hr/>
+                    <div class="row">
+                        @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter descriptions" } })
+                        </div>
+                    </div>
+
+                    <hr/>
+              
+                    <div class="row">
+                            <div class="col-md-2">
+                                <label for="inputsm">Is Active? </label>
+                            </div>
+                            <div class="col-md-10">
+                                <input id="form-IsActive" type="checkbox" data-toggle="toggle" data-on="On" data-off="Off" />
+                            </div>
+                      
+                     </div>
+
+                    <hr/>
+                    <div class="row">
+                        <div class="col-md-2">
+                            @Html.ActionLink("Back to List", "/list")
+                        </div>
+                        <div class="col-md-10">
+                            <input type="submit" value="Update" class="form-control btn btn-primary" />
+                        </div>
+                    </div>
+                    <hr />
+       
+                </div>
+            </div>
+        </div>
+    </div>
+  
+}
+
+<i class="text-success">@ViewData["success"]</i>
+
+
+
+

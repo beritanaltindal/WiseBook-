@@ -1,0 +1,138 @@
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.dll.config
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.pdb
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Helpers.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Mvc.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Razor.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.BLL.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.DAL.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.BLL.pdb
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.DAL.pdb
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Razor.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Helpers.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Mvc.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\csc.exe
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\vbc.exe
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.dll.config
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Helpers.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Mvc.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Razor.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.BLL.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.DAL.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.BLL.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\WiseBook.DAL.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Razor.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Helpers.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\bin\System.Web.Mvc.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.csprojResolveAssemblyReference.cache
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\csc.exe
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\vbc.exe
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.dll.config
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.Admin.UI.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.Owin.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Newtonsoft.Json.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Owin.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Helpers.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Http.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Http.Owin.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Mvc.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Razor.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.BLL.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.DAL.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.BLL.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\WiseBook.DAL.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Microsoft.Owin.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\Newtonsoft.Json.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Http.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Http.Owin.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Razor.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Helpers.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\System.Web.Mvc.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.csprojResolveAssemblyReference.cache
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\obj\Debug\WiseBook.Admin.UI.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\PagedList.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\PagedList.Mvc.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\PagedList.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.Admin.UI\bin\PagedList.Mvc.xml

@@ -1,0 +1,48 @@
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll.config
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.pdb
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.dll
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.pdb
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.dll
+C:\Users\Wissen\Desktop\Orjinal-WiseBook\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.pdb
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll.config
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.pdb
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.pdb
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.dll
+C:\Users\Wissen\Desktop\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll.config
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.pdb
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.dll
+C:\Users\ALTINDAL\Desktop\Yeni klasör\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll.config
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.BLL.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\WiseBook.DAL.pdb
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.dll
+C:\Users\ALTINDAL\Desktop\WiseBook\WiseBook.BLL\obj\Debug\WiseBook.BLL.pdb

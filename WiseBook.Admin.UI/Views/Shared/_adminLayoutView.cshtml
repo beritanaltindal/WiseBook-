@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Admin Panel</title>
+    @Html.Partial("partial/_adminStyleAssets")
+ 
+</head>
+<body>
+<div class="wrapper">
+    @Html.Partial("partial/_adminHeader")
+    @Html.Partial("partial/_adminNavbar")
+      
+    <div id="page-wrapper">
+        <div id="page-inner">
+            <div class="row">
+                <div class="col-md-12">
+                    @RenderBody()
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+     
+       
+</div>
+
+@Html.Partial("partial/_adminScriptAssets")
+</body>
+</html>
+@RenderSection("js", false)
